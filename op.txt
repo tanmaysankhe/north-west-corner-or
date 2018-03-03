@@ -1,0 +1,22 @@
+Enter number of factories3
+Enter number of shops3
+5 8 4 50
+6 6 3 40
+3 9 6 60
+20 95 35 150
+----------------------------GIVEN---------------------------
+Factory/Shops	|	S1	|	S2	|	S3	|	Cap	|	
+Factory 1	|	5	|	8	|	4	|	50	|	
+Factory 2	|	6	|	6	|	3	|	40	|	
+Factory 3	|	3	|	9	|	6	|	60	|	
+Reqiurements 	|	20	|	95	|	35	|	150	|	
+----------------------------ANSWER--------------------------
+Factory/Shops	|	S1	|	S2	|	S3	|	Cap	|	
+Factory 1	|	20	|	30	|	0	|	0	|	
+Factory 2	|	0	|	40	|	0	|	0	|	
+Factory 3	|	0	|	25	|	35	|	0	|	
+Reqiurements 	|	0	|	0	|	0	|	150	|	
+--------------------------TOTAL COST--------------------------
+Total cost = 1015
+
+Process finished with exit code 0
